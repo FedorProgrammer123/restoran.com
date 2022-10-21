@@ -1,0 +1,662 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.main{
+  position: absolute;
+  width: 1440px;
+  height: 880px;
+  left: 0px;
+  top: 0px;
+  background: url(../Img/hero.jpg);
+}
+.welcome{
+  position: absolute;
+  width: 430px;
+  height: 57px;
+  left: 199px;
+  top:322px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 57px;
+  color: #D67E35;
+}
+.Ourrestoran{
+  position: absolute;
+  width: 556px;
+  height: 85px;
+  left: 175px;
+  top: 379px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 92px;
+  color: #D67E35;
+}
+.first{
+  position: absolute;
+  width: 68px;
+  height: 19px;
+  left: 533px;
+  top: 74px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  color: #FFFFFF;
+}
+.menu{
+  position: absolute;
+  width: 47px;
+  height: 19px;
+  left: 624px;
+  top: 74px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  color: #FFFFFF;
+}
+.aboutus{
+  position: absolute;
+  width: 45px;
+  height: 19px;
+  left: 691px;
+  top: 74px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  color: #FFFFFF;
+}
+.armor{
+  position: absolute;
+  width: 49px;
+  height: 19px;
+  left: 761px;
+  top: 74px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  color: #FFFFFF;
+}
+.phone{
+  position: absolute;
+  width: 131px;
+  height: 25px;
+  left: 942px;
+  top: 55px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.contactwithus{
+  position: absolute;
+  width: 154px;
+  height: 38px;
+  left: 914px;
+  top: 81px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: #FFFFFF;
+}
+.rectangle32{
+  position: absolute;
+  width: 157px;
+  height: 47px;
+  left: 1118px;
+  top: 59px;
+  background-color: #FF7400;
+  color: #FFFFFF;
+}
+.housebestfood{
+  position: absolute;
+  width: 169px;
+  height: 25px;
+  left: 340px;
+  top: 510px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+}
+.rectangle24{
+  position: absolute;
+  width: 137px;
+  height: 47px;
+  left: 356px;
+  top: 560px;
+  background-color: #FF7400;
+  color: #FFFFFF;
+}
+.ourhistory{
+  position: absolute;
+  width: 336px;
+  height: 62px;
+  left: 220px;
+  padding-top: -900px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 62px;
+  color: #000000;
+}
+.secondchapter{
+  position: absolute;
+  width: 1440px;
+  height: 880px;
+  left: 0px;
+  top: 860px;
+  background: #E5E5E5;
+}
+.how{
+  position: absolute;
+  width: 444px;
+  height: 217px;
+  left: 166px;
+  padding-top: 100px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  color: #656363;
+}
+.nineteenth{
+  position: absolute;
+  width: 46px;
+  height: 54px;
+  left: 200px;
+  top: 300px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 54px;
+  text-align: center;
+  color: #BC9060;
+}
+.drinks{
+  position: absolute;
+  width: 84px;
+  height: 27px;
+  left: 180px;
+  top: 370px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: #000000;
+}
+.twohundred{
+  position: absolute;
+  width: 69px;
+  height: 54px;
+  left: 353px;
+  top: 300px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 54px;
+  text-align: center;
+  color: #BC9060;
+}
+.food{
+  position: absolute;
+  width: 34px;
+  height: 27px;
+  left: 370px;
+  top: 260px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: #000000;
+}
+.seventy{
+  position: absolute;
+  width: 46px;
+  height: 43px;
+  left: 500px;
+  top: 300px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 54px;
+  text-align: center;
+  color: #BC9060;
+}
+.dinner{
+  position: absolute;
+  width: 76px;
+  height: 27px;
+  left: 480px;
+  top: 370px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: #000000;
+}
+.thirdchapter{
+  position: absolute;
+  width: 1440px;
+  height: 357px;
+  left: 0px;
+  top: 1742px;
+  background: url(../Img/delicous.jpg);
+}
+.celebrate{
+  position: absolute;
+  width: 601px;
+  height: 120px;
+  left: 165px;
+  top: 100px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 52px;
+  line-height: 60px;
+  color: #D67E34;
+}
+.thismonth{
+  position: absolute;
+  width: 542px;
+  height: 33px;
+  left: 165px;
+  top: 250px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  color: #FFFFFF;
+}
+.rectangle32{
+  position: absolute;
+  width: 157px;
+  height: 47px;
+  left:1097px;
+  top:200px;
+  background: #FF7400;
+  color: #FFFFFF;
+  border: 1px solid #FF7400;
+  font-family: 'Open Sans';
+}
+.fourchapter{
+  position: absolute;
+  width: 1440px;
+  height: 880px;
+  left: 0px;
+  top: 2100px;
+  background: #E5E5E5;
+}
+.ourdelicates{
+  position: absolute;
+  width: 294px;
+  height: 62px;
+  left: 588px;
+  top: 20px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 62px;
+  color: #000000;
+}
+.one{
+  position: absolute;
+  width: 711px;
+  height: 474px;
+  left:200px;
+  padding-top:500px;
+  transform: rotate(90deg);
+}
+.burger{
+  position: absolute;
+  width: 210px;
+  height: 140px;
+  left: 618px;
+  top:150px;
+}
+.gamburgermini{
+  position: absolute;
+  left: 850px;
+  top: 170px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+  color: #000000;
+}
+.burger2{
+  position: absolute;
+  width: 210px;
+  height: 140px;
+  left: 618px;
+  top:350px;
+}
+.gamburgermini2{
+  position: absolute;
+  left: 850px;
+  top: 370px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+  color: #000000;
+}
+.burger3{
+  position: absolute;
+  width: 210px;
+  height: 140px;
+  left: 618px;
+  top:550px;
+}
+.gamburgermini3{
+  position: absolute;
+  left: 850px;
+  top: 575px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+  color: #000000;
+}
+.fivechapter{
+  position: absolute;
+  width: 1552px;
+  height: 1034px;
+  left: -92px;
+  top:2980px;
+  background: url(../Img/Bar.jpg);
+}
+.ourmenu{
+  position: absolute;
+  width: 270px;
+  height: 62px;
+  left: 588px;
+  top: 80px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 62px;
+  color: #FFFFFF;
+  text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+}
+.dish1{
+  position: absolute;
+  width: 350px;
+  height: 510px;
+  left: 165px;
+  top:200px;
+  background: #FFFFFF;
+}
+.burgerfirst{
+  position: absolute;
+  width: 300px;
+  height: 231px;
+  left: 20px;
+  top:60px;
+  border-radius: 50%;
+}
+.texgamburger{
+  position: absolute;
+  width: 188px;
+  height: 30px;
+  left: 100px;
+  top: 280px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+  color: #000000;
+}
+.maximummeat{
+  position: absolute;
+  width: 226px;
+  height: 37px;
+  left: 100px;
+  top: 330px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+}
+.recommended{
+  position: absolute;
+  width: 124px;
+  height: 36px;
+  left: 0px;
+  top:0px;
+  background: #D67E34;
+  border: 1px solid #D67E34;
+}
+.order{
+  position: absolute;
+  width: 220px;
+  height: 50px;
+  left: 60px;
+  top:400px;
+  background: #D67E34;
+  color: #FFFFFF;
+  font-family: 'Open Sans';
+  border: 1px solid #D67E34;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+.dish2{
+  position: absolute;
+  width: 350px;
+  height: 510px;
+  left: 600px;
+  top:200px;
+  background: #FFFFFF;
+}
+.burgersecond{
+  position: absolute;
+  width: 300px;
+  height: 231px;
+  left:20px;
+  top: 60px;
+  border-radius:50%;
+}
+.dish3{
+  position: absolute;
+  width: 350px;
+  height: 510px;
+  left: 1010px;
+  top:200px;
+  background: #FFFFFF;
+}
+.sixchapter{
+  position: absolute;
+  width: 1440px;
+  height: 550px;
+  left: 0px;
+  top:1035px;
+  background: #E5E5E5;
+}
+.iremember{
+  position: absolute;
+  width: 920px;
+  height: 52px;
+  left: 260px;
+  top:100px;
+  font-family: 'Open Sans';
+  font-style:italic;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: center;
+  color: #000000;
+}
+.Nikolai{
+  position: absolute;
+  width: 149px;
+  height: 100px;
+  left: 656px;
+  top:250px;
+  border-radius: 50%;
+}
+.guest{
+  position: absolute;
+  width: 119px;
+  height: 27px;
+  left: 661px;
+  top:400px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+}
+.Nik{
+  position: absolute;
+  width: 86px;
+  height: 27px;
+  left: 675px;
+  top:420px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27px;
+}
+.sevenchapter{
+  position: absolute;
+  width: 1440px;
+  height: 2000px;
+  left: 0px;
+  top: 1580px;
+  background: #FFFFFF;
+}
+.gallery{
+  position: absolute;
+  width: 317px;
+  height: 62px;
+  left: 576px;
+  top:80px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 62px;
+  color: #000000;
+}
+.food{
+  position: absolute;
+  width: 555px;
+  height: 368px;
+  left: 110px;
+  padding-top:110px;
+}
+.food1{
+  position: absolute;
+  width: 300px;
+  height: 274px;
+  left: 730px;
+  top:250px;
+}
+.soup{
+  position: absolute;
+  width: 300px;
+  height: 274px;
+  left: 1060px;
+  top:250px;
+}
+.coffee{
+  position: absolute;
+  width: 300px;
+  height: 274px;
+  left: 168px;
+  top:650px;
+}
+.soup2{
+  position: absolute;
+  width: 220px;
+  height: 274px;
+  left: 500px;
+  top:650px;
+}
+.food2{
+  position: absolute;
+  width: 610px;
+  height: 368px;
+  left: 750px;
+  top:600px;
+}
+.ourcookers{
+  position: absolute;
+  width: 313px;
+  height: 62px;
+  left: 558px;
+  top:1000px;
+  font-family: 'Tinos';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 62px;
+  color: #000000;
+}
+.cooker{
+  position: absolute;
+  width: 350px;
+  height: 526px;
+  left: 165px;
+  top: 1200px;
+}
+.cooker2{
+  position: absolute;
+  width: 350px;
+  height: 526px;
+  left: 600px;
+  top: 1200px;
+}
+.cooker3{
+  position: absolute;
+  width: 350px;
+  height: 526px;
+  left: 1000px;
+  top: 1200px;
+}
+.eightchapter{
+  position: absolute;
+  width: 2571px;
+  height: 1604px;
+  left: 0px;
+  top: 3570px;
+  background: url(../Img/fon.png);
+}
